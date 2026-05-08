@@ -1,3 +1,3 @@
 ## Architecture
 
-![Architecture](architecture.png)
+![Architecture](architecture.drawio)
