@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+mediapipe
+numpy
+Pillow
+sqlalchemy
+psycopg2-binary
+structlog
+python-jose
+asyncpg
