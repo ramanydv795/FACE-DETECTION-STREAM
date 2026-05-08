@@ -1,1 +1,3 @@
-# FACE-DETECTION-STREAM
+## Architecture
+
+![Architecture](architecture.png)
