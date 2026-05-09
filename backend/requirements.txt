@@ -7,5 +7,9 @@ Pillow
 sqlalchemy
 psycopg2-binary
 structlog
-python-jose
+python-jose[cryptography]
+passlib
+bcrypt
+pytest
+httpx
 asyncpg
